@@ -6,5 +6,5 @@ Bu repo Kodluyoruz Front-End Eğitiminde oluşturduğumuz ilk repo.
 
 
 ```
-gh repo clone Utkucuu/kodluyoruzilkrepo
+https://github.com/Utkucuu/kodluyoruzilkrepo.git
 ```
