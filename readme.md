@@ -5,6 +5,6 @@ Bu repo Kodluyoruz Front-End Eğitiminde oluşturduğumuz ilk repo. İçerisinde
 # Installation
 
 
-´´´
+```
 gh repo clone Utkucuu/kodluyoruzilkrepo
-´´´
+```
