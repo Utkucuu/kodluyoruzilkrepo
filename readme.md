@@ -1,6 +1,10 @@
 # Deneme
 
-## Alt Bilgi
+Bu repo Kodluyoruz Front-End Eğitiminde oluşturduğumuz ilk repo. İçerisinde bir adet README dosyası, bir adet de index html barındırıyor.
 
-ilk repo çalışması
+#Installation
 
+
+´´´
+gh repo clone Utkucuu/kodluyoruzilkrepo
+´´´
